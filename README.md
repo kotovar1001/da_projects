@@ -1,11 +1,12 @@
-Автор проектов: Алексей Котов
+### Проекты по анализу данных
+
+Автор: Алексей Котов
 
 Почта: alexkotov1001@yandex.ru
 
 Telegram: @kotov1001
 
-
-#### Проекты по анализу данных с помощью Python (EDA, jupyter notebook, pandas, matplotlib): 
+#### Python (EDA, jupyter notebook, pandas, matplotlib): 
 - [Исследование рынка общественного питания](https://clck.ru/3QnTPK) 
 - [Исследование рынка инвестиций](https://clck.ru/3QnTUE) 
 - [Исследование развития игровой индустрии](https://clck.ru/3QnTYD) 
