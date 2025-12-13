@@ -14,3 +14,6 @@ Telegram: @kotov1001
 #### SQL (CTE, подзапросы, оконные функции, фильтрация, агрегация): 
 - [Анализ покупок в онлайн-игре](https://clck.ru/3QmoTe)
 - [Анализ базы доноров](https://clck.ru/3Qmpo7) 
+
+#### Python + SQL (SQLAlchemy, jupyter notebook, pandas)
+- [Анализ рынка вакансий аналитиков](https://clck.ru/3QosgT)
