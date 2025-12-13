@@ -16,4 +16,4 @@ Telegram: @kotov1001
 - [Анализ базы доноров](https://clck.ru/3Qmpo7) 
 
 #### Python + SQL (SQLAlchemy, jupyter notebook, pandas)
-- [Анализ рынка вакансий аналитиков](https://clck.ru/3QosgT)
+- [Анализ рынка вакансий аналитиков](https://clck.ru/3QospK)
