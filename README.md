@@ -6,7 +6,7 @@
 
 Почта: alexkotov1001@yandex.ru
 
-Telegram: http://t.me/kotov1001 (@kotov1001)
+Telegram: http://t.me/kotov1001  (@kotov1001)
 
 #### Python (EDA, jupyter notebook, pandas, matplotlib): 
 - [Исследование рынка общественного питания](https://clck.ru/3QnTPK) 
