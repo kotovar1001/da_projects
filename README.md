@@ -8,7 +8,7 @@
 
 ### Проекты по анализу данных
 
-#### ➤ Python (EDA, jupyter notebook, pandas, matplotlib): 
+#### ➤ Python (EDA, jupyter notebook, pandas, matplotlib, scipy, statsmodels): 
 - [Исследование рынка общественного питания](https://clck.ru/3QnTPK) 
 - [Исследование рынка инвестиций](https://clck.ru/3QnTUE) 
 - [Исследование развития игровой индустрии](https://clck.ru/3QnTYD) 
